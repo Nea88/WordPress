@@ -2,10 +2,10 @@
 # This file is distributed under the same license as the WordPress package.
 msgid ""
 msgstr ""
-"Project-Id-Version: WordPress 3.8\n"
+"Project-Id-Version: WordPress 3.8.1\n"
 "Report-Msgid-Bugs-To: http://wppolyglots.wordpress.com\n"
-"POT-Creation-Date: 2013-12-11 18:13:26+00:00\n"
-"PO-Revision-Date: 2013-12-18 00:21+0400\n"
+"POT-Creation-Date: 2013-12-11 23:14:09+00:00\n"
+"PO-Revision-Date: 2014-01-24 00:35+0400\n"
 "Last-Translator: Sergey Biryukov <sergeybiryukov.ru@gmail.com>\n"
 "Language-Team: ru.wordpress.org <sergeybiryukov.ru@gmail.com>\n"
 "Language: ru_RU\n"
@@ -13390,7 +13390,7 @@ msgstr ""
 
 #: wp-admin/widgets.php:234
 msgid "Widget %s"
-msgstr "Виджет %s"
+msgstr "Виджет &laquo;%s&raquo;"
 
 #: wp-admin/widgets.php:245
 msgid ""
